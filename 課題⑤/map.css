@@ -1,0 +1,58 @@
+@charset "utf-8";
+html{
+    font-size: 62.5%;
+}
+#mtext{margin-bottom: 10px;}
+button{padding: 10px;margin: 10px; font-size:120%;}
+#myMap{position:relative; float:left; width:500px; height:500px;}
+#mylist{float:left;background-color: #ccc; height:500px;font-size: 70%;}
+#mylistul{margin-right: 30px;}
+li{list-style-type: none;}
+#input{ width:750px;clear: both}
+#memo{width: 500px}
+#comment{color:#002cb1}
+.btndesign  {  font-weight: bold;
+display: block;
+width:214px;
+margin: auto;
+padding: 10px 0;
+background: #64cbff;
+color: #fff;
+font-size: 1.8rem;
+border-radius: 100px;
+transition: .3s;
+border:solid 1px #ffffff;
+}
+.textbox{
+    text-align: center;
+    appearance:none;
+    -webkit-apparance:none;
+    -moz-appearance:none;
+    padding: 8px;
+    margin: 50px 0 50px 0;
+    border:solid 1px #c9c9c9;
+    font-size: 3.0rem;
+    left: 50%;
+    border-right:none;
+    border-left:none;
+    border-top:none;
+    outline: none;
+}
+.whitetext{
+color: #fff;
+}
+
+.centerposition{
+    text-align: center;
+}
+
+.commentdesign{
+
+    font-size: 3.0rem;
+}
+
+.rirekidesign{
+    
+    font-size: 1.5rem;
+    color:#000000
+}
